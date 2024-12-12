@@ -1,9 +1,9 @@
-# Sewer-Classifier-inference-method-collection
-The collection of inference methods for sewer defect classification using various model formats.
+# Cloud-Deployment-of-Sewer-Defect-Detection-Using-YOLOv8
+Deploy the model on a cloud server to run the inference service, and perform image inference locally by calling the Python package designed for inference.
 
-## 分类效果
+## 检测效果
 
-![功能测试](https://github.com/allrivertosea/PNP-camera-calibration/blob/main/result.png)
+![功能测试](https://github.com/allrivertosea/Cloud-Deployment-of-Sewer-Defect-Detection-Using-YOLOv8/blob/main/00005518_result.png)
 
 
 ## 环境配置
