@@ -32,6 +32,6 @@ python setup.py sdist bdist_wheel，将在 dist 目录下生成一个.tar.gz 文
 可以将其发布到 PyPI 上，这里我们只进行本地安装。
 pip install dist/sewer_dt-0.1.tar.gz
 ### 本地使用 sewer_dt 包进行推理
-python infer_from_package.py
+- python infer_from_package.py
 
 
