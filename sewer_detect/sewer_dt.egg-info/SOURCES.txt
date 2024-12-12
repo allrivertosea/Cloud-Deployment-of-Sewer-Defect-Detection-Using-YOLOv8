@@ -1,0 +1,9 @@
+MANIFEST.in
+setup.py
+sewer_dt/__init__.py
+sewer_dt/infer.py
+sewer_dt.egg-info/PKG-INFO
+sewer_dt.egg-info/SOURCES.txt
+sewer_dt.egg-info/dependency_links.txt
+sewer_dt.egg-info/requires.txt
+sewer_dt.egg-info/top_level.txt

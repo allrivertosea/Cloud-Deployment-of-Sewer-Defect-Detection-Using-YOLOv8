@@ -1,0 +1,2 @@
+include infer.py
+recursive-include sewer_detect *.py
